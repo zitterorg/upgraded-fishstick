@@ -14,6 +14,566 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@dramaorg/assumenda-vel-animi@npm:^1.0.0":
+  version: 1.1.21
+  resolution: "@dramaorg/assumenda-vel-animi@npm:1.1.21"
+  dependencies:
+    "@dramaorg/esse-praesentium-eligendi": "npm:^1.0.0"
+    "@dramaorg/psychic-couscous": "npm:^1.1.5"
+    "@dramaorg/shiny-waddle": "npm:^1.1.4"
+    "@dramaorg/solid-octo": "npm:^1.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/cd07375e362d61a322eb9c40360b28d23ea10eccf5ff56d254e24b1503ff68b4ca4bf290794669971fec55cc434cc61f38e55a42333e8f038f2c3afa32cf56ea
+  languageName: node
+  linkType: hard
+
+"@dramaorg/esse-praesentium-eligendi@npm:^1.0.0":
+  version: 1.2.6
+  resolution: "@dramaorg/esse-praesentium-eligendi@npm:1.2.6"
+  dependencies:
+    "@dramaorg/psychic-couscous": "npm:^1.1.5"
+    "@dramaorg/shiny-waddle": "npm:^1.1.4"
+    "@dramaorg/solid-octo": "npm:^1.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/ee502b5cb8f05b84b060e9d0212a6fea5693dcad346e6c4b141396b2c64daf67b6a7ee698b62914259e39554a31ff4bc020425a39890fdf9df3566df9e84616a
+  languageName: node
+  linkType: hard
+
+"@dramaorg/perspiciatis-ipsa-doloremque@npm:^1.0.0":
+  version: 1.0.8
+  resolution: "@dramaorg/perspiciatis-ipsa-doloremque@npm:1.0.8"
+  dependencies:
+    "@dramaorg/assumenda-vel-animi": "npm:^1.0.0"
+    "@dramaorg/esse-praesentium-eligendi": "npm:^1.0.0"
+    "@dramaorg/psychic-couscous": "npm:^1.1.5"
+    "@dramaorg/shiny-waddle": "npm:^1.1.4"
+    "@dramaorg/solid-octo": "npm:^1.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/b0661e6ba3fcd8c18908a1ac2c8ad411964c4dd95337ab7dc91ebb82c02252c8877638b29cbaea73a7f3ec259bf679823a5913a89784d44566c6a40e1f83e5e4
+  languageName: node
+  linkType: hard
+
+"@dramaorg/psychic-couscous@npm:^1.1.0, @dramaorg/psychic-couscous@npm:^1.1.2, @dramaorg/psychic-couscous@npm:^1.1.5":
+  version: 1.3.25
+  resolution: "@dramaorg/psychic-couscous@npm:1.3.25"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/eb1f7e29daf1e27244e27301dd2801b26a081af1560dcf0ca6ed63255552486b3dd80befd96be91c71235bc08a106afa79f5bd630e265dc870782c9a18bd994e
+  languageName: node
+  linkType: hard
+
+"@dramaorg/quae-dolore-nostrum@npm:^2.1.20":
+  version: 2.1.20
+  resolution: "@dramaorg/quae-dolore-nostrum@npm:2.1.20"
+  dependencies:
+    "@dramaorg/assumenda-vel-animi": "npm:^1.0.0"
+    "@dramaorg/esse-praesentium-eligendi": "npm:^1.0.0"
+    "@dramaorg/perspiciatis-ipsa-doloremque": "npm:^1.0.0"
+    "@dramaorg/psychic-couscous": "npm:^1.1.5"
+    "@dramaorg/shiny-waddle": "npm:^1.1.4"
+    "@dramaorg/solid-octo": "npm:^1.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/f331c44858507e11d33fe3c1326b87390a5fbe370c1231647e8e5d223fe036c022b263eabb0317b11653d4e2bb8f7230d3573082d118dd50c453df28bbffb9c3
+  languageName: node
+  linkType: hard
+
+"@dramaorg/shiny-waddle@npm:^1.1.2, @dramaorg/shiny-waddle@npm:^1.1.4":
+  version: 1.4.12
+  resolution: "@dramaorg/shiny-waddle@npm:1.4.12"
+  dependencies:
+    "@dramaorg/psychic-couscous": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/6acf22bd01b4d45fd179028d1981a3b1fdfedf5ee202ecefd93c7b9b5121d1980220dbaa2bd144c72f02f5e2e61da8b132bdc16e410dd018322f646bdb651994
+  languageName: node
+  linkType: hard
+
+"@dramaorg/solid-octo@npm:^1.1.2":
+  version: 1.4.19
+  resolution: "@dramaorg/solid-octo@npm:1.4.19"
+  dependencies:
+    "@dramaorg/psychic-couscous": "npm:^1.1.2"
+    "@dramaorg/shiny-waddle": "npm:^1.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/9887bf630e85dc71ad7ba695b54a1ec34b23ef321edf30854180cf9d2e2dcaa2eda5432408c50e81477a091b516aef62e136d7662c2bf9789aeb15fa930a326f
+  languageName: node
+  linkType: hard
+
+"@juigorg/congenial-barnacle@npm:^1.0.1":
+  version: 1.2.5
+  resolution: "@juigorg/congenial-barnacle@npm:1.2.5"
+  checksum: 10c0/64a0f089967a3c5ce2dcf8d3047d032bd2040b0e8c852165cac8260615775014b1c23db0ad97e9a0bca1421cc4783a9f6e43145e4b81a8808544dc3aee969819
+  languageName: node
+  linkType: hard
+
+"@juigorg/congenial-barnacle@npm:^2.2.5":
+  version: 2.3.15
+  resolution: "@juigorg/congenial-barnacle@npm:2.3.15"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/27751c50847b11c2d27149d251e405104f0341cfbf1641df6956822df28149bdafc15206d3649146e2b99c845c677d0a866e2f07ffe529ee281dadb23c8ff4fb
+  languageName: node
+  linkType: hard
+
+"@juigorg/didactic@npm:^1.0.1, @juigorg/didactic@npm:^1.1.7":
+  version: 1.3.27
+  resolution: "@juigorg/didactic@npm:1.3.27"
+  dependencies:
+    "@juigorg/congenial-barnacle": "npm:^1.0.1"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/17221d06f188c2363c3c166b3d9280586f74d89c7fe31d8206a0df6d986404ee8163e72122f8310cfd322d2a5da6b56a1b0c6eeba52bf5e875be96b43d3fa99b
+  languageName: node
+  linkType: hard
+
+"@juigorg/musical-happiness@npm:^2.0.8":
+  version: 2.0.14
+  resolution: "@juigorg/musical-happiness@npm:2.0.14"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/1c23f5050cfbc8301f69d08e169d4864fa583ce1dc431379147ecb9df9922a90e2b72aaf02bfaf30f4d207d9a459f1f24882e2822443315fe966b606398192b7
+  languageName: node
+  linkType: hard
+
+"@juigorg/nisi-molestiae-ut@npm:^2.1.20":
+  version: 2.1.20
+  resolution: "@juigorg/nisi-molestiae-ut@npm:2.1.20"
+  dependencies:
+    "@juigorg/congenial-barnacle": "npm:^2.2.5"
+    "@juigorg/didactic": "npm:^1.1.7"
+    "@juigorg/musical-happiness": "npm:^2.0.8"
+    "@juigorg/reimagined-fishstick": "npm:^1.1.7"
+    "@juigorg/sit-nam-neque": "npm:^1.0.0"
+    "@juigorg/succotash": "npm:^1.1.7"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/5a8fa244946111f3c4b32cba8ba82ad4abded9e84f3489f458e72e3d615a03d954f9ac0b9e5e090416a35d1548a7bea71e3a99d558d2805746b28f93a2ed9953
+  languageName: node
+  linkType: hard
+
+"@juigorg/reimagined-fishstick@npm:^1.1.7":
+  version: 1.3.10
+  resolution: "@juigorg/reimagined-fishstick@npm:1.3.10"
+  dependencies:
+    "@juigorg/congenial-barnacle": "npm:^1.0.1"
+    "@juigorg/didactic": "npm:^1.0.1"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/38eb9a605c928666143586ec72aae8ccf2814ea637894f92440693c8e312fc41939fe02d1d73dc1bb42c51cf09cd58e662c58adb35e08f815b0863dcdd0ac269
+  languageName: node
+  linkType: hard
+
+"@juigorg/sit-nam-neque@npm:^1.0.0":
+  version: 1.0.22
+  resolution: "@juigorg/sit-nam-neque@npm:1.0.22"
+  dependencies:
+    "@juigorg/congenial-barnacle": "npm:^2.2.5"
+    "@juigorg/didactic": "npm:^1.1.7"
+    "@juigorg/musical-happiness": "npm:^2.0.8"
+    "@juigorg/reimagined-fishstick": "npm:^1.1.7"
+    "@juigorg/succotash": "npm:^1.1.7"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/1ea64df20bb81bc8dd66ce334ec461334819a9b455567fe047985f385c061ba72fbdb5b5d9d2e8adcbbbc73754b2bef676facc513080cb7d946aaa153d87c018
+  languageName: node
+  linkType: hard
+
+"@juigorg/succotash@npm:^1.1.7":
+  version: 1.3.27
+  resolution: "@juigorg/succotash@npm:1.3.27"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/c97c12599fd0ecbd75eedf7f515f678bf99e5afb385687d0fc2e3bebc218ea4664dea970e74d83d9255b6de3a1e6d032d587c79c0fd5cbd347cd2fc30e5914ce
+  languageName: node
+  linkType: hard
+
+"@kollorg/aliquid-dolore-necessitatibus@npm:^1.0.0":
+  version: 1.1.21
+  resolution: "@kollorg/aliquid-dolore-necessitatibus@npm:1.1.21"
+  dependencies:
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/1923ee9e41f9d23d5ad0475157629cf56c65ae1e7e07a9a95bc7f413b54f87a87df7fc08961b881d28ff375dd98045beb314e6a58da3ce89ef73d0ffef8f5056
+  languageName: node
+  linkType: hard
+
+"@kollorg/architecto-eos-ex@npm:^1.0.0":
+  version: 1.2.13
+  resolution: "@kollorg/architecto-eos-ex@npm:1.2.13"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/eca830be82901c0426fe8764f56bebc1c067ce688dbfef5863e39bd605e148b1f3f9879b6e8f9928b8d4e19da5d55290154fa17901f8c3fd3684498294c2f6b8
+  languageName: node
+  linkType: hard
+
+"@kollorg/distinctio-facilis-illum@npm:^1.0.0":
+  version: 1.0.22
+  resolution: "@kollorg/distinctio-facilis-illum@npm:1.0.22"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/1730db95fe8059c527eb4f5d63bcd50d42de789e03ae4f13e11d785c112859a7b6609540cf81c9479972d45b5026c70851799a93e150e93cd44c4d5c558e2320
+  languageName: node
+  linkType: hard
+
+"@kollorg/legendary-robot@npm:^1.0.2":
+  version: 1.2.22
+  resolution: "@kollorg/legendary-robot@npm:1.2.22"
+  dependencies:
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/5e30af93630b47d41c03c96e2263e369bf889f927a746de4fb90eba6583228d30ebb5cc7c886f4fa2056dcd49b84b5c5fdbe7e28bce738d28c8c9dbf3bb688b2
+  languageName: node
+  linkType: hard
+
+"@kollorg/minima-perferendis-ipsa@npm:^1.0.0":
+  version: 1.3.19
+  resolution: "@kollorg/minima-perferendis-ipsa@npm:1.3.19"
+  dependencies:
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/e2600431d89e54cd3ef8fab0841f01701b6ad82bf4eefa8315a11c89026398072b7ee8aa46874d435033d928f79af582277549a44ac00fc197c82376aa93b2da
+  languageName: node
+  linkType: hard
+
+"@kollorg/mollitia-quod-molestias@npm:^1.0.0":
+  version: 1.1.21
+  resolution: "@kollorg/mollitia-quod-molestias@npm:1.1.21"
+  dependencies:
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/749a6f042314478de8c71286b52c884aaaeac271e35bf9002e902e07ccb1a981e5f217364e8dbfb4183b1b2d0e2ab0d0659b9a1abbe5bfa9eadabe6221ea3e1f
+  languageName: node
+  linkType: hard
+
+"@kollorg/nihil-veniam-deserunt@npm:^1.2.20":
+  version: 1.2.20
+  resolution: "@kollorg/nihil-veniam-deserunt@npm:1.2.20"
+  dependencies:
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/architecto-eos-ex": "npm:^1.0.0"
+    "@kollorg/distinctio-facilis-illum": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/optio-reprehenderit-earum": "npm:^1.0.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/c19eac33e5a88a76dbcb7d2e8b8489bb914d6dcc132907e77673abd84193d4ca0436e6a34473fc213b46e92e83dceb4b1eaf54309f30d814e655b777c641e66f
+  languageName: node
+  linkType: hard
+
+"@kollorg/optio-reprehenderit-earum@npm:^1.0.0":
+  version: 1.0.23
+  resolution: "@kollorg/optio-reprehenderit-earum@npm:1.0.23"
+  dependencies:
+    "@dramaorg/quae-dolore-nostrum": "npm:^2.1.20"
+    "@juigorg/nisi-molestiae-ut": "npm:^2.1.20"
+    "@kollorg/aliquid-dolore-necessitatibus": "npm:^1.0.0"
+    "@kollorg/legendary-robot": "npm:^1.0.2"
+    "@kollorg/minima-perferendis-ipsa": "npm:^1.0.0"
+    "@kollorg/mollitia-quod-molestias": "npm:^1.0.0"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.2.20"
+    "@swenkerorg/nulla-voluptates-voluptates": "npm:^1.2.20"
+    "@zitterorg/eum-veritatis-placeat": "npm:^2.1.20"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^2.2.19"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/c04d22729e448418c76539496f148b1ddfb9b670445fab78b8310981ae432309bc1dfb5b3c80c0f3ec926914a77aade8629b2935fd72db1636e98f5ca08669e4
+  languageName: node
+  linkType: hard
+
+"@swenkerorg/modi-dolorum-provident@npm:^1.0.0":
+  version: 1.1.3
+  resolution: "@swenkerorg/modi-dolorum-provident@npm:1.1.3"
+  dependencies:
+    "@swenkerorg/potential-waddle": "npm:^1.0.2"
+    "@swenkerorg/super-duper": "npm:^1.0.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/5a06faccf24ce74ea798da0a5b965e7b39dbaebad7463372d2301a3b4c59ee3d86ba2ca55c5c335f71215ff286392ed0b962ae2f4a405f4f5977e2d21c5dcdca
+  languageName: node
+  linkType: hard
+
+"@swenkerorg/nulla-voluptates-voluptates@npm:^1.2.20":
+  version: 1.2.20
+  resolution: "@swenkerorg/nulla-voluptates-voluptates@npm:1.2.20"
+  dependencies:
+    "@swenkerorg/modi-dolorum-provident": "npm:^1.0.0"
+    "@swenkerorg/potential-waddle": "npm:^1.0.2"
+    "@swenkerorg/super-duper": "npm:^1.0.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/346e0d129671268d4d14335bbd30a510208c3edd2aae8583336d3ba2d2f29ee97ee5d8e85024a55b169e0dc4adae6066c15c43c767d5a060e8050130fce1f259
+  languageName: node
+  linkType: hard
+
+"@swenkerorg/potential-waddle@npm:^1.0.2":
+  version: 1.0.5
+  resolution: "@swenkerorg/potential-waddle@npm:1.0.5"
+  dependencies:
+    "@swenkerorg/super-duper": "npm:^1.0.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/6975c2b586315f2ed012afe7c09c369f91b74925c1099ee21fd1908cb735381603b7fd5feb3c87dd5add16ea60acbee1f0cd546f8213caa8ec7b6caf91512728
+  languageName: node
+  linkType: hard
+
+"@swenkerorg/super-duper@npm:^1.0.1, @swenkerorg/super-duper@npm:^1.0.2":
+  version: 1.3.9
+  resolution: "@swenkerorg/super-duper@npm:1.3.9"
+  dependencies:
+    "@swenkerorg/super-duper": "npm:^1.0.1"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/c4c3c7535a79a01e79ef5be66f6764fd7b9d372953b522db02955aac0479cb44ec71b57fdd7205287d82e0e6f58eb25ef365b52447ad59a27e60abe867be51c7
+  languageName: node
+  linkType: hard
+
+"@zitterorg/aspernatur-pariatur-occaecati@npm:^1.0.0":
+  version: 1.2.3
+  resolution: "@zitterorg/aspernatur-pariatur-occaecati@npm:1.2.3"
+  dependencies:
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/1e9dea2a460021c5dec1030398f559330cde0859c8f307383479f81f78d74d926d3af15f162968d3e40f73e0c8d23887ff8623aa5fe5dbbe4352309c96ba6df0
+  languageName: node
+  linkType: hard
+
+"@zitterorg/doloremque-ut-omnis@npm:^1.0.0":
+  version: 1.0.1
+  resolution: "@zitterorg/doloremque-ut-omnis@npm:1.0.1"
+  dependencies:
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.0.0"
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^1.0.0"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/21a757655d5bbd3c60e175fb6d7e3682ee058d7fe88d9f866b1580978e141b594a2c3bf5ab1db3d82b3b60d45a2b5b23fec6eb60e92fbdc316452d7e3892c6d5
+  languageName: node
+  linkType: hard
+
+"@zitterorg/est-sunt-quos@npm:^1.0.0":
+  version: 1.1.8
+  resolution: "@zitterorg/est-sunt-quos@npm:1.1.8"
+  dependencies:
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.0.0"
+    "@zitterorg/doloremque-ut-omnis": "npm:^1.0.0"
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^1.0.0"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/1646e658a251dc1213bb6a3402456acc11fefc67823f945e567283ea524319dba6b263bda66940a7cf1dee0605fdbb4b47e4534bae74893804fa877f925ab4c9
+  languageName: node
+  linkType: hard
+
+"@zitterorg/eum-veritatis-placeat@npm:^2.1.20":
+  version: 2.1.20
+  resolution: "@zitterorg/eum-veritatis-placeat@npm:2.1.20"
+  dependencies:
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.0.0"
+    "@zitterorg/doloremque-ut-omnis": "npm:^1.0.0"
+    "@zitterorg/est-sunt-quos": "npm:^1.0.0"
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^1.0.0"
+    "@zitterorg/neque-repellendus-ut": "npm:^1.0.0"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/reiciendis-minima-excepturi": "npm:^1.0.0"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/48f33973554b73f4233956d834e46401e9ef692045762dbab3a9103e65547cf0b301289cf9c5059e83a22221c4d39add2a7c6e338d30736ef63b43e45b3fc714
+  languageName: node
+  linkType: hard
+
 "@zitterorg/fluffy-waddle@npm:^2.1.2, @zitterorg/fluffy-waddle@npm:^2.3.4":
   version: 2.3.4
   resolution: "@zitterorg/fluffy-waddle@npm:2.3.4"
@@ -31,6 +591,76 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@zitterorg/illum-perferendis-consectetur@npm:^1.0.0":
+  version: 1.1.14
+  resolution: "@zitterorg/illum-perferendis-consectetur@npm:1.1.14"
+  dependencies:
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.0.0"
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/a75043e0fe46f1369954c419728230df3033fff2c09775d7b2402d8f039dd46632d292fecca67a04c0e380b84d2a7d8903aa0950d9f78512f57fadef1ef48595
+  languageName: node
+  linkType: hard
+
+"@zitterorg/illum-perferendis-consectetur@npm:^2.2.19, @zitterorg/illum-perferendis-consectetur@npm:^2.2.20":
+  version: 2.2.20
+  resolution: "@zitterorg/illum-perferendis-consectetur@npm:2.2.20"
+  dependencies:
+    "@dramaorg/quae-dolore-nostrum": "npm:^2.1.20"
+    "@juigorg/nisi-molestiae-ut": "npm:^2.1.20"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.2.20"
+    "@swenkerorg/nulla-voluptates-voluptates": "npm:^1.2.20"
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.0.0"
+    "@zitterorg/eum-veritatis-placeat": "npm:^2.1.20"
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^2.2.19"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/fed64e5e6d9b866fd2bdbe9b5d5a3165f4e9a28b37c3be0e23a8de842d08b149519cfda7bc4b2a909ee02d4435db42b5dba46cdb5c1b2bc61b285b4696fdfaf9
+  languageName: node
+  linkType: hard
+
+"@zitterorg/neque-repellendus-ut@npm:^1.0.0":
+  version: 1.0.12
+  resolution: "@zitterorg/neque-repellendus-ut@npm:1.0.12"
+  dependencies:
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.0.0"
+    "@zitterorg/doloremque-ut-omnis": "npm:^1.0.0"
+    "@zitterorg/est-sunt-quos": "npm:^1.0.0"
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^1.0.0"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/reiciendis-minima-excepturi": "npm:^1.0.0"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/5fed55b03dc546f381c0dd12961bbe0a9ba2ee8e492c35dda2f6e702ef2a5258e4a730661f933d5778b45c61c471499ae1a81665e5852e1786187860747cfbe5
+  languageName: node
+  linkType: hard
+
 "@zitterorg/probable-octo@npm:^1.1.0, @zitterorg/probable-octo@npm:^1.1.3":
   version: 1.1.3
   resolution: "@zitterorg/probable-octo@npm:1.1.3"
@@ -40,12 +670,57 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@zitterorg/upgraded-fishstick@workspace:.":
+"@zitterorg/probable-octo@npm:^1.1.4":
+  version: 1.3.24
+  resolution: "@zitterorg/probable-octo@npm:1.3.24"
+  dependencies:
+    "@zitterorg/fluffy-waddle": "npm:^2.1.2"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/79627763085d4eef878bd6eabf6d8e3aed8264f6009a25384637192e2e89fe266aa0582a8d9248863a8e65d5d191cae88cb25fe10ae9afbb179269a141de5b7f
+  languageName: node
+  linkType: hard
+
+"@zitterorg/reiciendis-minima-excepturi@npm:^1.0.0":
+  version: 1.0.1
+  resolution: "@zitterorg/reiciendis-minima-excepturi@npm:1.0.1"
+  dependencies:
+    "@zitterorg/aspernatur-pariatur-occaecati": "npm:^1.0.0"
+    "@zitterorg/doloremque-ut-omnis": "npm:^1.0.0"
+    "@zitterorg/est-sunt-quos": "npm:^1.0.0"
+    "@zitterorg/fluffy-waddle": "npm:^2.3.4"
+    "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^1.0.0"
+    "@zitterorg/probable-octo": "npm:^1.1.4"
+    "@zitterorg/upgraded-fishstick": "npm:^1.1.0"
+    analsorhost-simple-bs: "npm:^1.0.1"
+    corcojs-qrcode: "npm:^1.0.0"
+    corcojs-qrcode-logo: "npm:^1.0.0"
+    dable-effect: "npm:^1.0.2"
+    firan-logging: "npm:^1.0.0"
+    simple-assi-animation: "npm:^1.0.1"
+    simple-prompts-web3: "npm:^1.0.1"
+  checksum: 10c0/e57c08fd0889ede7bf5ed25a5bcc46080c676e6189d4ccbdfd1ea571a2b8b428d9bd499020f54ced1e8188da1706ee72bd81c58ab105fd02d832aa6e321bb5db
+  languageName: node
+  linkType: hard
+
+"@zitterorg/upgraded-fishstick@npm:^1.1.0, @zitterorg/upgraded-fishstick@workspace:.":
   version: 0.0.0-use.local
   resolution: "@zitterorg/upgraded-fishstick@workspace:."
   dependencies:
+    "@dramaorg/quae-dolore-nostrum": "npm:^2.1.20"
+    "@juigorg/nisi-molestiae-ut": "npm:^2.1.20"
+    "@kollorg/nihil-veniam-deserunt": "npm:^1.2.20"
+    "@swenkerorg/nulla-voluptates-voluptates": "npm:^1.2.20"
+    "@zitterorg/eum-veritatis-placeat": "npm:^2.1.20"
     "@zitterorg/fluffy-waddle": "npm:^2.3.4"
     "@zitterorg/glowing-barnacle": "npm:^1.1.3"
+    "@zitterorg/illum-perferendis-consectetur": "npm:^2.2.20"
     "@zitterorg/probable-octo": "npm:^1.1.3"
     analsorhost-simple-bs: "npm:^1.0.1"
     corcojs-qrcode: "npm:^1.0.0"
