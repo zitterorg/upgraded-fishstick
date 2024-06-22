@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/upgraded-fishstick",
-  "version": "2.5.45",
+  "version": "2.5.46",
   "description": "",
   "main": "index.js",
   "author": "zitterfe",
@@ -579,5 +579,5 @@
   "bugs": {
     "url": "https://github.com/zitterorg/upgraded-fishstick/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
